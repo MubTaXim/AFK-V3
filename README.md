@@ -25,7 +25,7 @@ This is an upgraded version of [AFK-V2](https://github.com/MubTaXim/AFK-V2/) whi
 
 ## Requirements
 
-- Node.js (version >= 16.0.0)
+- Node.js (version >= 20.16.1)
 - A Minecraft server to connect to.
 
 ## Installation
