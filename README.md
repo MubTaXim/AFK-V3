@@ -54,7 +54,10 @@ You can configure the bot settings by modifying the code in **settings.js**. Put
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). However, commercial use is not permitted without explicit permission from the author. Please see the LICENSE file for more details.
+This project is licensed under the [AFK-V3 Personal Use License](LICENSE). 
+You are granted a non-exclusive, non-transferable license to use the AFK-V3 bot for personal, non-commercial purposes only. You may not use the Software for commercial purposes, modify it, or reverse engineer it.
+
+For more details, please see the LICENSE file in this repository.
 
 ## Author
 
